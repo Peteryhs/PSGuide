@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env.local
+
+# Build
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Dashboard sections (WIP)
+screens/DashboardScreen.tsx
+screens/WelcomeScreen.tsx
+screens/dashboard/ApplicationsView.tsx
+screens/dashboard/GuidePlusView.tsx
+screens/dashboard/OverviewView.tsx
+screens/dashboard/PortalsView.tsx

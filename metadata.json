@@ -1,0 +1,5 @@
+{
+  "name": "PSGuide",
+  "description": "A university application tracker with an interactive login and permissions flow.",
+  "requestFramePermissions": []
+}
