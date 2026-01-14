@@ -12,7 +12,6 @@ dist/
 .idea/
 
 # Dashboard sections (WIP)
-screens/DashboardScreen.tsx
 screens/WelcomeScreen.tsx
 screens/dashboard/ApplicationsView.tsx
 screens/dashboard/GuidePlusView.tsx
